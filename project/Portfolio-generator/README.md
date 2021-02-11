@@ -13,6 +13,6 @@ Be creative and have fun..!!
 - JavaScript
 
 ## Facilitator(s)
-Name: Antonny  
-Phone: 080  
-Email: antony@gmail.com  
+Name: Antoni  
+Phone: 08125260125
+Email: antonineutron@gmail.com  
